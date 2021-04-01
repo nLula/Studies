@@ -1,0 +1,10 @@
+Dark corridor is empty and only few torches are bringing some poor light in here.
+You see only three different doors, and none of it has an "exit" sign...
+
+So you decide to open them one by one, hoping that there is nobody behind any 
+of them and you find a way out.
+
+Which door should you try first?
+- [1st door] made of wood and you feel bad smell behind it.
+- [2nd door] also wooden, looks like it was closed for years.
+- [3rd door] covered in metal, has some kind of code locking.
